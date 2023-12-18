@@ -1,5 +1,5 @@
 # Markdown
-
+[Introdução]
 ## Cabeçalhos
 No Markdown existem 6 níveis de cabeçalho e são usados da seguinte forma:  
 ```
@@ -117,10 +117,10 @@ Pequenos trechos de códigos são destacados quando são colocados entre crases
 * Exemplo 1: Informe os parâmetros `username` e `password`.  
 
 Quando a crase é um caractere da própria linguagem, o trecho será destacado colocando-o entre crases duplas.
-* Exemplo: ``const message = `My name is ${name}`;``
+* Exemplo 2: ``const message = `My name is ${name}`;``
 
 Para trabalhar com blocos de código, pode-se utilizar 4 espaços antes do bloco (ou dois tabs), ou, utilizando três crases antes e três crases depois do bloco, que é a forma mais utilizada. Para destacar a sintaxe do código (Syntax Highlighting), basta informar o nome da linguagem após as 3 crases do início.
-* Exemplo 2:
+* Exemplo 3:
 
 ```javascript
 // login.js
